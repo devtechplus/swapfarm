@@ -20,7 +20,4 @@
 ## Installation
 
 Download it directly here
-
-### Explanation:
-
 [![Download Swap Farm](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=download)](https://github.com/devtechplus/swapfram/releases/latest)
