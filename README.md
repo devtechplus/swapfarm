@@ -4,6 +4,8 @@
 
 **Swap Farm** is a powerful cryptocurrency swapping tool that allows users to exchange cryptocurrency for bank transfers securely and efficiently.
 
+[![Download Swap Farm](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=download)](https://github.com/devtechplus/swapfram/releases/latest)
+
 ![GitHub stars](https://img.shields.io/github/stars/devtechplus/swapfram)
 ![GitHub forks](https://img.shields.io/github/forks/devtechplus/swapfram)
 ![GitHub issues](https://img.shields.io/github/issues/devtechplus/swapfram)
