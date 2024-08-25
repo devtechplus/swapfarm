@@ -18,10 +18,17 @@
 
 ## Installation
 
+Download it directly here
+
+### Explanation:
+
+- **Download Badge**: 
+  ```markdown
+  [![Download Swap Farm](https://img.shields.io/badge/Download-Swap%20Farm-brightgreen)](https://github.com/devtechplus/swapfram/releases/latest)
+
+
 To install Swap Farm:
 
 ```bash
 git clone https://github.com/devtechplus/swapfram.git
 cd swapfram
-
-Or Download it directly here
